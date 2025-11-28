@@ -23,8 +23,6 @@ if user == "DB".lower():
                     main_file = json.load(file)
                     print(f"--File Contents--\n", json.dumps(main_file, indent=2))
 
-            else:
-                ("Bye...")
 
 
     except:
