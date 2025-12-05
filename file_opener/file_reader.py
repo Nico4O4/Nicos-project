@@ -8,14 +8,16 @@ def file_reader():
     try:
         file = open(user_input_file_path, "r")
         print("\n--Current file content--", "\n\n", file.read(), "\n\n")
+        menu()
     
     except:
         FileNotFoundError
         print("File not found")
+        menu()
 
 
 #first menu when starting programm
-def first_menu():
+def menu():
     while True:
         print("\nFile reader | made by Nico4O4")
         print("'r' | read a file via path")
@@ -32,26 +34,6 @@ def first_menu():
 
         else:
             print("Invalid input\n")
-            first_menu()
+            menu()
         
-#----------------------------------
-first_menu()
-
-
-def menu_after_first_interaction():
-    while True:
-        print("'r' | read another file")
-        print("'q' | Exit")
-        user_input2 = input("--> ")
-    
-        if user_input2 == "r".lower():
-            file_reader()
-
-        if user_input2 == ("q").lower():
-            sys.exit()
-    
-        else:
-            print("Invalid input\n")
-            menu_after_first_interaction()
-
-menu_after_first_interaction()
+menu()
