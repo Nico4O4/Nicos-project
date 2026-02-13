@@ -1,8 +1,7 @@
 Hi!
 
-The file "Calculator" is a project I worked on to refresh my Python skills after a break. I am currently no longer working on it.
+This is my main GitHub repository.
 
-The file "pingprogramm" is a script that can ping a chosen IP address and output whether it is reachable or not.
+Here you can find both old and new projects.
 
-Otherwise, I upload general projects that I code here.
-You can use these programms / projects. :)
+Feel free to use or modify them, but please give credit to me @Nico4O4 if you share them on social media or elsewhere!
