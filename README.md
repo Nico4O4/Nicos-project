@@ -1,7 +1,6 @@
-Hi!
+Python  programs
+------------------------
 
-This is my main GitHub repository.
+My First ever created Repo that i am using now for learning Python concepts and sharing my progress!
 
-Here you can find both old and new projects.
-
-Feel free to use or modify them, but please give credit to me @Nico4O4 if you share them on social media or elsewhere!
+Here i upload small Projects / scripts whether im learning something new or keeping my Python skills up to date.
