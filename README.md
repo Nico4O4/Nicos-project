@@ -1,8 +1,6 @@
-Hi!
+Python  programs
+------------------------
 
-The file "Calculator" is a project I worked on to refresh my Python skills after a break. I am currently no longer working on it.
+My First ever created Repo that i am using now for learning Python concepts and sharing my progress!
 
-The file "pingprogramm" is a script that can ping a chosen IP address and output whether it is reachable or not.
-
-Otherwise, I upload general projects that I code here.
-You can use these programms / projects. :)
+Here i upload small Projects / scripts whether im learning something new or keeping my Python skills up to date.
